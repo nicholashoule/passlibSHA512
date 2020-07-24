@@ -1,4 +1,6 @@
-## Cross-platform (passlib): Generate the printable form of a password hash as produced by Linux crypt (C)
+## Cross-platform (passlib): Generate a password hash as produced by Linux crypt (C)
+
+![genSHA512 (passlib)](https://github.com/nicholashoule/passlibSHA512/workflows/genSHA512%20(passlib)/badge.svg?branch=master)
 
 ##### Key derivation functions supported by crypt:
 
