@@ -1,4 +1,4 @@
-## Cross-platform (passlib): Generate a password hash as produced by Linux crypt (C)
+## Python cross-platform (passlib): Generate a password hash as produced by Linux crypt (C)
 
 ![genSHA512 (passlib)](https://github.com/nicholashoule/passlibSHA512/workflows/genSHA512%20(passlib)/badge.svg?branch=master)
 
