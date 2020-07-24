@@ -24,4 +24,4 @@ Ref: https://en.wikipedia.org/wiki/Crypt_(C)
 Python 3.7+
 
 ##### Run the code:
-https://repl.it/@NicholasHoule/pythonpasslib-genSHA512
+https://repl.it/@NicholasHoule/passlibSHA512#genSHA512.py
