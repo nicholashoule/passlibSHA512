@@ -2,6 +2,8 @@
 
 ![genSHA512 (passlib)](https://github.com/nicholashoule/passlibSHA512/workflows/genSHA512%20(passlib)/badge.svg?branch=master)
 
+[![Run on Repl.it](https://repl.it/badge/github/nicholashoule/passlibSHA512)](https://repl.it/github/nicholashoule/passlibSHA512)
+
 ##### Key derivation functions supported by crypt:
 
 Ref: https://en.wikipedia.org/wiki/Crypt_(C)
